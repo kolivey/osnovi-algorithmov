@@ -13,3 +13,4 @@ if exist %EXE% del %EXE%
 g++ "%CHARSET%" %MAIN% -o %EXE%
 
 %EXE%
+
