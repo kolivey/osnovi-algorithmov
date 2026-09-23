@@ -13,7 +13,3 @@ if exist %EXE% del %EXE%
 g++ "%CHARSET%" %MAIN% -o %EXE%
 
 %EXE%
-
-2542/451
-2255
-287
